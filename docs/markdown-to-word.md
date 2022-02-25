@@ -25,7 +25,7 @@ provide a guide for converting Markdown files to Word files via Pandoc.
 5.  Press Enter.
 
 <figure>
-<img src=images\media\image1.png>
+<img src="images/media/image1.png">
 <figcaption><b>Sample code for converting from Markdown to Word via Pandoc</b></figcaption>
 </figure>
 {% include footer.md %}
